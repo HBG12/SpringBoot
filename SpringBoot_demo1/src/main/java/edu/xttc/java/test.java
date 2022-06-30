@@ -6,4 +6,5 @@ package edu.xttc.java;
  */
 public class test {
     int master_test;
+    int push_test;
 }
